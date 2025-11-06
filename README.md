@@ -168,7 +168,7 @@ You can explore the N3RVU algebra live in your browser — no installation requi
 The notebook walks through the same examples as this README, including special zero actions, non-associativity, and interactive widgets.
 
 **Open in Colab:**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iPfJkQmLBB-rASLsrzJZhrFHN1qe9_En#scrollTo=84c38c48)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gLETvw3aaPowiwKslyVYPDvJKEYICaBR?authuser=1#scrollTo=XgkJqhVXRxvF)
 
 Once open, just run the setup cell to load [n3rvu.py](n3rvu.py) (it will auto-download from GitHub if needed) and start experimenting.
 
