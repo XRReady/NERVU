@@ -1,0 +1,14 @@
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+
+# Jupyter and output artifacts
+.ipynb_checkpoints/
+*.out.txt
+
+# System files
+.DS_Store
+Thumbs.db

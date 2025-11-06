@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "The NERVU Algebra (N3RVU)"
+message: "If you use this work, please cite it using the metadata below."
+authors:
+  - family-names: Spencer
+    given-names: Dale
+    affiliation: Texas Data Safe
+    email: texasdatasafe@gmail.com
+abstract: >
+  The NERVU Algebra (N3RVU) is a baric triple algebraic formulation developed to
+  model vanished and undefined quantities and their interactions through structured
+  triple operations and basis transformations.
+date-released: 2025-01-01
+version: "1.0"
+license: "Attribution Only (Free Use, Derivatives Allowed)"
+url: "https://github.com/XRRready/NERVU"
