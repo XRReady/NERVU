@@ -30,7 +30,7 @@ I was obssessed with the idea of losing information when multiplying by `0` in f
 
 I eventually realized that the key step was to formalize the concept of a pure `0`. I attempted to write a paper back in 2024 when I made this realization, which constructed the set of vanished reals and bridged that set to the reals from a pure zero $0_z$ set. But it had several flaws. The most troubling flaw was that I tried to do everything through this new set of vanished reals which proved to ultimately cause problems with the algebraic properties and axioms. 
 
-I realized this year (2025) that I actually needed two extra dimensions to smoothly create a consistent and meaningful algebra. So the set of vanished numbers $\mathbb{V}$ and the new set of undefined numbers was born $\mathbb{U}$. Within the set themselves associativity holds, but it is a misnomer to call them numbers since they do not meet the requirements of a field. The word *number* refers to the fact that they are constructed from the reals as coefficients $\text{Vanished} = \mathbb{R} \mathbb{V}$ and $\text{Undefined} = \mathbb{R} \mathbb{U}$.
+I realized this year (2025) that I actually needed two extra dimensions to smoothly create a consistent and meaningful algebra. So the set of vanished numbers $\mathbb{V}$ and the new set of undefined numbers were born $\mathbb{U}$. Within the set themselves associativity holds, but it is a misnomer to call them numbers since they do not meet the requirements of a field. The word *number* refers to the fact that they are constructed from the reals as coefficients $\text{Vanished} = \mathbb{R} \mathbb{V}$ and $\text{Undefined} = \mathbb{R} \mathbb{U}$.
 
 I decided not to to fix my paper (I will one day) because the computational path has a construct that represents my idea of a pure zero both philosophically and symbolically, namely the literal `0`. It is guaranteed to never have been the result of any previous arithmetic and quite literally pulls from the idea of my singleton set ${0_z}$ in the 2024 paper.
 
@@ -70,7 +70,7 @@ $au * 1/0 = au$
 
 ### Inherited Scalar Identity
 
-An interesting feature of the both sets is that they "inherit" the identity of the reals since they are both $\text{Vanished} = \mathbb{R} \mathbb{V}$ and $\text{Undefined} = \mathbb{R} \mathbb{U}$ when you apply a scalar from the reals.
+An interesting feature of both sets is that they "inherit" the identity of the reals since they are both $\text{Vanished} = \mathbb{R} \mathbb{V}$ and $\text{Undefined} = \mathbb{R} \mathbb{U}$ when you apply a scalar from the reals.
 
 $av * 1 = av$
 
